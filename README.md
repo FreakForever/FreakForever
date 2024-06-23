@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @FreakForever
+- 👋 Hi, I’m @Ashwin Sathiyamoorthy
 - 👀 I’m interested in Machine Learning and WebDev.
-- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on AI/ML.
 - 📫 reach me via mail : ashsathiya2@gmail.com
 
